@@ -35,7 +35,7 @@ This project explores train data to uncover patterns in **train delays** across 
 
 ##  Author
 
-- Final Data Analytics Project by _[Hanna Sliashynskaya]_  
+- Final Data Analytics Project by _Hanna Sliashynskaya_  
 - For academic use – submitted as part of a data analytics coursework.
 
 ---
