@@ -25,7 +25,7 @@ This project explores train data to uncover patterns in **train delays** across 
 - `railway.csv` – Raw dataset (if included locally).
 - `README.md` – This file.
 
-## ▶️ How to Run This Project
+## How to Run This Project
 
 1. Open [Google Colab](https://colab.research.google.com/)
 2. Upload both `UK_Train_Ticket_Data.ipynb` and `railway.csv`
